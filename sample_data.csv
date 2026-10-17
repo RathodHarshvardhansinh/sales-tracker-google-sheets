@@ -1,0 +1,65 @@
+Date,Order ID,Product,Category,Region,Qty,Unit Price,Sales
+2026-09-14,ORD-1001,Denim Jeans,Clothing,South,2,1499,2998
+2026-09-15,ORD-1002,Wireless Mouse,Electronics,South,2,899,1798
+2026-09-15,ORD-1003,Olive Oil 1L,Grocery,North,4,799,3196
+2026-09-15,ORD-1004,Desk Lamp,Home,West,4,699,2796
+2026-09-16,ORD-1005,Olive Oil 1L,Grocery,North,4,799,3196
+2026-09-16,ORD-1006,Basmati Rice 5kg,Grocery,East,5,649,3245
+2026-09-16,ORD-1007,Desk Lamp,Home,West,6,699,4194
+2026-09-17,ORD-1008,Cotton T-Shirt,Clothing,North,4,499,1996
+2026-09-18,ORD-1009,Steel Bottle,Home,North,3,399,1197
+2026-09-18,ORD-1010,Green Tea Box,Grocery,North,4,249,996
+2026-09-18,ORD-1011,Green Tea Box,Grocery,South,5,249,1245
+2026-09-19,ORD-1012,Power Bank,Electronics,South,2,1299,2598
+2026-09-20,ORD-1013,Bedsheet Set,Home,West,3,1099,3297
+2026-09-20,ORD-1014,Denim Jeans,Clothing,South,2,1499,2998
+2026-09-20,ORD-1015,Bluetooth Speaker,Electronics,East,6,1799,10794
+2026-09-21,ORD-1016,Olive Oil 1L,Grocery,South,3,799,2397
+2026-09-21,ORD-1017,Hoodie,Clothing,North,5,1199,5995
+2026-09-22,ORD-1018,Olive Oil 1L,Grocery,South,1,799,799
+2026-09-22,ORD-1019,Denim Jeans,Clothing,South,3,1499,4497
+2026-09-22,ORD-1020,Power Bank,Electronics,East,4,1299,5196
+2026-09-23,ORD-1021,Steel Bottle,Home,West,1,399,399
+2026-09-23,ORD-1022,Green Tea Box,Grocery,North,2,249,498
+2026-09-24,ORD-1023,Cotton T-Shirt,Clothing,North,4,499,1996
+2026-09-25,ORD-1024,Green Tea Box,Grocery,West,2,249,498
+2026-09-25,ORD-1025,Olive Oil 1L,Grocery,West,4,799,3196
+2026-09-26,ORD-1026,Wireless Mouse,Electronics,East,6,899,5394
+2026-09-26,ORD-1027,Wireless Mouse,Electronics,North,6,899,5394
+2026-09-27,ORD-1028,Cotton T-Shirt,Clothing,West,6,499,2994
+2026-09-28,ORD-1029,USB-C Cable,Electronics,North,2,299,598
+2026-09-29,ORD-1030,Bedsheet Set,Home,North,6,1099,6594
+2026-09-29,ORD-1031,Denim Jeans,Clothing,East,3,1499,4497
+2026-09-30,ORD-1032,Steel Bottle,Home,North,5,399,1995
+2026-10-01,ORD-1033,Basmati Rice 5kg,Grocery,East,4,649,2596
+2026-10-02,ORD-1034,Wireless Mouse,Electronics,South,5,899,4495
+2026-10-02,ORD-1035,Olive Oil 1L,Grocery,West,2,799,1598
+2026-10-03,ORD-1036,Wireless Mouse,Electronics,West,6,899,5394
+2026-10-03,ORD-1037,Green Tea Box,Grocery,West,5,249,1245
+2026-10-04,ORD-1038,Power Bank,Electronics,West,3,1299,3897
+2026-10-04,ORD-1039,Steel Bottle,Home,North,2,399,798
+2026-10-04,ORD-1040,Power Bank,Electronics,North,1,1299,1299
+2026-10-05,ORD-1041,Wireless Mouse,Electronics,East,4,899,3596
+2026-10-06,ORD-1042,USB-C Cable,Electronics,South,3,299,897
+2026-10-06,ORD-1043,Bedsheet Set,Home,South,1,1099,1099
+2026-10-06,ORD-1044,Hoodie,Clothing,East,1,1199,1199
+2026-10-07,ORD-1045,Denim Jeans,Clothing,South,6,1499,8994
+2026-10-07,ORD-1046,Cotton T-Shirt,Clothing,West,6,499,2994
+2026-10-07,ORD-1047,Hoodie,Clothing,East,5,1199,5995
+2026-10-08,ORD-1048,Denim Jeans,Clothing,North,2,1499,2998
+2026-10-08,ORD-1049,Desk Lamp,Home,West,5,699,3495
+2026-10-09,ORD-1050,Olive Oil 1L,Grocery,West,5,799,3995
+2026-10-09,ORD-1051,Bedsheet Set,Home,East,6,1099,6594
+2026-10-10,ORD-1052,Hoodie,Clothing,West,2,1199,2398
+2026-10-10,ORD-1053,Bedsheet Set,Home,North,3,1099,3297
+2026-10-10,ORD-1054,Basmati Rice 5kg,Grocery,West,6,649,3894
+2026-10-11,ORD-1055,Steel Bottle,Home,East,3,399,1197
+2026-10-11,ORD-1056,Hoodie,Clothing,East,3,1199,3597
+2026-10-12,ORD-1057,Steel Bottle,Home,East,2,399,798
+2026-10-12,ORD-1058,Green Tea Box,Grocery,West,2,249,498
+2026-10-12,ORD-1059,Green Tea Box,Grocery,South,3,249,747
+2026-10-13,ORD-1060,Wireless Mouse,Electronics,West,1,899,899
+2026-10-13,ORD-1061,Green Tea Box,Grocery,West,1,249,249
+2026-10-14,ORD-1062,USB-C Cable,Electronics,East,1,299,299
+2026-10-15,ORD-1063,Desk Lamp,Home,East,5,699,3495
+2026-10-16,ORD-1064,Green Tea Box,Grocery,East,6,249,1494
